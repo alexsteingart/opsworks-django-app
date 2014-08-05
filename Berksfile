@@ -1,5 +1,3 @@
-source "https://supermarket.getchef.com"
-
 cookbook "yum"
 cookbook "build-essential"
 cookbook "ohai"
